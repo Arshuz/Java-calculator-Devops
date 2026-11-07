@@ -2,6 +2,8 @@
 package com.arshu.calculator;
 
 public class Calculator {
+	
+	private String unusedLabel = "Calculator";
 
     public static double add(double a, double b) {
         return a + b;
